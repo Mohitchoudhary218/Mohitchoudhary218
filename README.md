@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Photoshop & React Native**
 
-- 📫 How to reach me **choudharymohit**
+- 📫 How to reach me **choudharymohit.mc@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ycFypEAQdUzH5kQIIEMkvmIsEEnGNq52/view?usp=sharing](https://drive.google.com/file/d/1ycFypEAQdUzH5kQIIEMkvmIsEEnGNq52/view?usp=sharing)
 
